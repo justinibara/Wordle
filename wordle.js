@@ -3,7 +3,7 @@
 // 2. compare each letter of the input word and the correct word.
 // Create enter button, when clicked
 // check if word is an existing word
-
+ 
 //  3. what happens: 1. letter is correct
 //                  2. letter is wrong 
 //                  3. letter is right but in the wrong place.
